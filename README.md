@@ -1,3 +1,3 @@
 # BIENVENIDOs AL ENCRIPTADOR DE TEXTO
 
-El siguiente archivo son los códigos con los que realice mi primer proyecto de programación,  la previsualización directa la puede encontrar [aqui](https://diegollanosr.github.io/encriptadorONE/); o tambien, puedes probar la segunda versión mejorada en mi portafolio  ingresando [aquí](https://diegollanosr.github.io/)
+El siguiente archivo son los códigos con los que realice de mi primer proyecto de programación en Alura,  la previsualización directa la puede encontrar [aqui](https://github.com/Samir0911/EncriptadorSamir); 
